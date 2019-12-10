@@ -14,7 +14,7 @@ screen.blit(bg, (0, 0))
 #3>update更新屏幕显示
 #pygame.display.update()
 
-
+###
 #绘制英雄的飞机
 #1>加载图像数据
 hero = pygame.image.load("./images/me1.png")
